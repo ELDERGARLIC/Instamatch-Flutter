@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704210553609",
+    "firebase_url": "https://instamatch-ee1ae.firebaseio.com",
+    "project_id": "instamatch-ee1ae",
+    "storage_bucket": "instamatch-ee1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704210553609:android:79a18daad30197f4c221d8",
+        "android_client_info": {
+          "package_name": "com.maxellm.instamatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704210553609-95aef1etdod3kjhat2erp1rcmdb339oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNQ-I1CLNfeTzK33Z3xpMDDBuAXxqXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704210553609-95aef1etdod3kjhat2erp1rcmdb339oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704210553609-89gcqk0uq58886mvfoc3rbeh1ul1cded.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maxellm.instamatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
